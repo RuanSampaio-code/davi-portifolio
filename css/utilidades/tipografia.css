@@ -1,0 +1,101 @@
+.font-logo {
+    font: 400 0.75rem/1.35 "JetBrains Mono", sans-serif;
+}
+
+.font-1-m{
+    font: 500 1.30rem/1.35 "Poppins", sans-serif;
+}
+.font-1-m-c{
+    font: 400 1.125rem/1.35 "Poppins", sans-serif;
+}
+.font-1-m-b{
+    font: 500 1.09rem/1.35 "Poppins", sans-serif;
+    margin: 40px 0;
+}
+
+.font-2-l-b {
+    font-size: 45px;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+.font-2-m {
+    font: 500 1.125rem/1.35 "Roboto", sans-serif;
+}
+
+.font-forms{
+    font-size: 18px;
+}
+.font-enviar {
+    font-weight: 800;
+}
+
+.font-2-l-c {
+    font-size: 40px;
+    text-align: center;
+}
+
+.font-2-l-d {
+    font-size: 28px;
+    text-align: center;
+}
+
+.font-2-l-e {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+
+.font-menu-mobile {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+.tamanho {
+    font-size: 59px;
+}
+
+
+@media (max-width:1206px) {
+    .font-1-m {
+        font-size: 1.18rem;
+    }
+    .font-logo {
+        font-size: 0.650rem;
+    }
+}
+
+@media (max-width:1100px) {
+    .font-1-m {
+        font-size: 1.10rem;
+    }
+    .font-logo {
+        font-size: 0.6rem;
+    }
+}
+
+@media (max-width:1049px) {
+    .font-1-m {
+        font-size: 1.05rem;
+    }
+    .font-logo {
+        font-size: 0.550rem;
+    }
+}
+
+@media (max-width:981px) {
+    .font-1-m {
+        font-size: 1rem;
+    }
+    .font-logo {
+        font-size: 0.5rem;
+    }
+}
+
+@media (max-width:652px) {
+    .font-logo {
+        font-size: 0.6rem;
+    }
+}
+
