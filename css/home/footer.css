@@ -44,6 +44,18 @@
 .footer-copy {
     grid-column: 1/-1;
     margin-top: 40px;
+    text-align: center;
+}
+
+
+.centralizar__logo__Tech{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centralizar__logo__Tech img{
+    width: 180px;
 }
 
 @media (max-width: 800px) {

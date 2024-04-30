@@ -46,6 +46,22 @@ section.portifolio .interface h2 {
     background-image:  url("../../imagens/portifolio/crud-java-swing.png")  ;
 }
 
+.img-port-5{
+    background-image:  url("../../imagens/portifolio/projeto-circuito-logico.jpg")  ;
+
+}
+
+.img-port-6{
+    background-image:  url("../../imagens/portifolio/projeto-ada.jpg")  ;
+
+}
+
+
+.img-port-7{
+    background-image:  url("../../imagens/portifolio/braco-robotico.jpg")  ;
+
+}
+
 
 
 .overlay {
