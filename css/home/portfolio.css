@@ -24,10 +24,29 @@ section.portifolio .interface h2 {
     height: 460px;
     margin-right: 20px;
     scroll-snap-align: start;
-    background-color: var(--cor-blue1);
+    background-image:   url("../../imagens/portifolio/secret-number.png")  ;/**/
     border-radius: 40px;
     position: relative;
+    background-size: cover;
+    background-position: center;
 }
+
+
+.img-port-2 {
+    background-image:  url("../../imagens/portifolio/freeway.png")  ;/**/
+}
+
+
+.img-port-3 {
+    background-image:  url("../../imagens/portifolio/robotron-200.png")  ;/**/
+}
+
+
+.img-port-4 {
+    background-image:  url("../../imagens/portifolio/crud-java-swing.png")  ;
+}
+
+
 
 .overlay {
     position: absolute;
