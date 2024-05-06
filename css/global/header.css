@@ -62,6 +62,15 @@ header nav.menu-desktop a:hover {
     .cabecalho {
         width: 70%;
     }
+
+}
+
+
+@media (max-width: 442px) {
+    h1.cor-w0.fade-In, div.splash.font-logo-2.display-none {
+        width: 442px;
+    }
+    
 }
 
 

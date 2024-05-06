@@ -21,3 +21,14 @@ section.especialidades .flex{
     transition: 0.3s;
     z-index: 999;
 }
+
+@media (max-width: 442px) {
+    .especialidade1 {
+        flex-wrap: wrap;
+    }
+
+    section.especialidades {
+        margin-bottom: 1790px;
+    }
+    
+}
