@@ -72,6 +72,8 @@ header nav.menu-desktop a:hover {
     }
     header.cabecalho {
         width: 442px;
+        padding: 20px;
+        margin: 0 0 0;
     }
     
 }
