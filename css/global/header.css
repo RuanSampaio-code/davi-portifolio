@@ -70,6 +70,9 @@ header nav.menu-desktop a:hover {
     h1.cor-w0.fade-In, div.splash.font-logo-2.display-none {
         width: 442px;
     }
+    header.cabecalho {
+        width: 442px;
+    }
     
 }
 
