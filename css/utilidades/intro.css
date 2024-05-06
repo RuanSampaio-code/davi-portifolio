@@ -39,7 +39,9 @@
 }
 
 @media (max-width:442px) {
-  
+  .splash{
+    text-align: left;
+  }
 }
   
   
