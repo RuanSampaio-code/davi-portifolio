@@ -58,6 +58,7 @@ section.sobre .flex {
 
 @media (max-width: 442px) {
     section.sobre .flex {
+        margin-top: 400px;
         flex-direction: column;
         
     }
