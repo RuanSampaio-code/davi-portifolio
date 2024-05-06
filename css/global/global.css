@@ -64,3 +64,13 @@ img {
 img[src$=".jpg"] {
     border-radius: 4px;
 }
+
+@media (max-width:442px) {
+    .interface {
+        max-width: 380px;
+        margin: 0;
+    }
+    .altura {
+        height: 50vh;
+    }
+}

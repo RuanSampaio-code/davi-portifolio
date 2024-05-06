@@ -6,6 +6,7 @@ section.sobre {
 .sobre {
     display: flex;
     align-items: center;
+    
 }
 
 section.sobre .flex {
@@ -55,4 +56,17 @@ section.sobre .flex {
 }
 
 
-
+@media (max-width: 442px) {
+    section.sobre .flex {
+        flex-direction: column;
+        
+    }
+    .img-sobre {
+        object-fit: cover;
+        width: 300px;
+    }
+    section.sobre.altura {
+        padding: 25px;
+    }
+    
+}

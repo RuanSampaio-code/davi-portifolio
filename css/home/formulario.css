@@ -31,3 +31,14 @@ form .btn-enviar{
     margin-top: 20px;
     text-align: center;
 }
+
+@media (max-width:442px) {
+    form {
+        max-width: 300px;
+        margin: 20px 20px;
+    }
+    section.formulario .altura {
+        padding: 40px auto;
+    }
+    
+}

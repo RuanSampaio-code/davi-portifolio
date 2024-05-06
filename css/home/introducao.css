@@ -22,3 +22,15 @@ section.topo-do-site .flex {
         top:30px;
     }
 }
+
+@media (max-width:442px) {
+    section.topo-do-site .flex {
+        flex-direction: column;
+    }
+    section.topo-do-site {
+        margin-bottom: 500px;
+    }
+    .img-topo-site {
+        width: 300px;
+    }
+}

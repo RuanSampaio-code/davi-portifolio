@@ -76,3 +76,12 @@
         margin-top: 0px;
     }
 }
+
+@media (max-width:442px){
+    div.footer-informacoes {
+        display: none;
+    }
+    div.footer.container{
+        padding: 30px 10px;
+    }
+}

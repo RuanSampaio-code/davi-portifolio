@@ -90,3 +90,9 @@ section.portifolio .interface h2 {
         -ms-overflow-style: none;
     }
 }
+
+@media (max-width:442px) {
+    section.portifolio {
+        margin-top: 400px;
+    }
+}

@@ -106,3 +106,16 @@
     }
 }
 
+@media (max-width:442px) {
+    .font-2-m {
+        font-size: 15px;
+        overflow-wrap: break-word;
+    }
+    .font-2-l-e {
+        font-size: 32px;
+    }
+    .font-2-l-b {
+        font-size: 25px;
+        line-height: 40px;
+    }
+}
