@@ -74,4 +74,8 @@
     .btn-abrir-menu {
         display: block;
     }
+    nav.nav-bar-hamburguer {
+        display: block;
+    }
+    
 }
