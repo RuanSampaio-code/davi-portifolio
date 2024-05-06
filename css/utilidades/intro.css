@@ -40,7 +40,8 @@
 
 @media (max-width:442px) {
   .splash{
-    
+    display: flex;
+    text-align: center;
   }
 }
   
