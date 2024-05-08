@@ -17,3 +17,5 @@
 @import "/css/home/formulario.css";
 @import "/css/home/footer.css";
 
+/* apresetacao */
+@import "utilidades/apresetacaofodastica.css";
